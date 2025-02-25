@@ -1,0 +1,15 @@
+body {
+    font-family: "Brush Script MT", "Trebuchet MS", sans-serif;
+    background-color: rgb(209, 209, 255);
+}
+
+.page-title {
+    text-align: center;
+    font-size: 50px;
+    color:Purple;
+}
+
+.item-title {
+    font-size: 25px;
+    color:rgb(22, 0, 0);
+}
